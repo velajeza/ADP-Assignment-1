@@ -7,8 +7,8 @@ package za.ac.cput.adp.assignment;
 
 /**
  *
- * @author Julian
+ * @author Jayden
  */
-public class Test {
-    
+public class Account {
+   
 }
